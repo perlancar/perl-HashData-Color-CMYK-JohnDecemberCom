@@ -1,4 +1,4 @@
-package HashData::Color::CMYK::JohnDecemberCom;
+package HashData::ColorCode::CMYK::JohnDecemberCom;
 
 use strict;
 use Role::Tiny::With;
